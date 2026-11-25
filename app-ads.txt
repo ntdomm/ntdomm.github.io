@@ -1,0 +1,19 @@
+# Short Movie app-ads.txt
+# Publisher: ntdogstudio
+# Contact: ntdogdev@gmail.com
+# Updated 2026-11-25
+
+# Appodeal (publisher 251228)
+appodeal.com, 251228, DIRECT
+
+# BidMachine (Appodeal group)
+bidmachine.io, 1, DIRECT
+bidmachine.io, 466, DIRECT
+
+# AdMob: add your publisher ID if you enable AdMob
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Meta Audience Network: add your business ID if you enable Meta
+# facebook.com, Business_ID, RESELLER, c3e20eee3f780d68
+
+# For additional mediated networks, append the reseller lines from the Appodeal dashboard.
